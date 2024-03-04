@@ -1,4 +1,4 @@
-# Google Cloud Speech-to-Text V2 Batch Transcription**
+# Google Cloud Speech-to-Text V2 Batch Transcription
 
 **Overview**
 
